@@ -10,3 +10,12 @@ It validates the login functionality of https://the-internet.herokuapp.com/login
 - Page Object Model (POM)
 
 ## Project Structure
+
+## Prerequisites
+- Node.js (v16+ recommended)
+- npm
+
+## Setup
+```bash
+npm install
+npx playwright install
